@@ -1,0 +1,6 @@
+{
+  "name": "ValoraMetric — Estimación de Precios por Regresión Lineal Múltiple",
+  "description": "Plataforma econométrica interactiva para estimación de precios mediante regresión lineal múltiple, preprocesamiento automático, análisis exploratorio, simulación de escenarios y exportación ejecutiva.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
